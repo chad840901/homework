@@ -14,8 +14,8 @@
     line-height: 2px;
 }
 .content{
-	height: 200px;
-	border-bottom:1px solid #a9a9a9;
+	height: 300px;
+    margin-bottom: -40px;
 }
 .word{
 	float: left;
@@ -23,15 +23,13 @@
     margin-left: 10px;
 }
 .content img{
-	height: 270px;
-	width: 300px;
 	float: left;
-    padding-left: 15px;
+    padding-left: 100px;
     padding-top: 20px;
 
 }
 .word h1{
-    color: blue;
+    color: #2ECCFA;
     text-decoration: underline;
     font-size: 32px;
     margin-top: 5px;
@@ -90,5 +88,6 @@
 
 }
 .text{
- 	
+ 	margin-left: 10px;
+    
 }
